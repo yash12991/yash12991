@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🤖 Experienced with **GitHub Copilot**, **Cursor AI**, and **AI-driven coding tools**  
 - 💬 Ask me about **AI, Automation, or Open Source**  
 - 📫 Reach me at **Yash129912@gmail.com**  
-- 🌐 [Portfolio Website](#) *(Coming soon — add your link here)*  
-- 🔗 [LinkedIn](#) *(Add your LinkedIn profile link here)*  
+  
 
 ---
 
