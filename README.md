@@ -70,7 +70,7 @@ yash12991/yash12991 is a ✨ special ✨ repository because its README.md appear
 
 ### 🏅 Holopin Badges  
 <p align="center">
-  <a href="https://holopin.io/@yash12991">
+  <a href="https://www.holopin.io/@yash12991#badges">
     <img src="https://holopin.me/yash12991" alt="Holopin Badges"/>
   </a>
 </p>
