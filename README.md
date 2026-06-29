@@ -14,14 +14,15 @@ yash12991/yash12991 is a ✨ special ✨ repository because its README.md appear
 </p>
 
 ---
+## 🚀 About Me
 
-## 🚀 About Me  
-
-- 🌱 Currently working on **Full Stack Web Development & Data Analytics**
-- 📊 Hands-on experience with **Power BI, SQL, Data Visualization**
-- 💻 Strong in **MERN Stack, Backend Systems & DBMS**
-- 🤖 Exploring **Generative AI & AI-assisted development**
-- 💬 Ask me about **Web Dev, Dashboards, SQL, or Analytics**
+- 🎓 B.Tech Computer Science student at **IIIT Kottayam**
+- 💻 Passionate about Full Stack Web Development and Backend Engineering
+- 📊 Building interactive dashboards using Power BI, SQL & Excel
+- 🤖 Exploring Generative AI, RAG, and AI-powered web applications
+- 🚀 Solved 700+ DSA problems and continuously improving problem-solving skills
+- 🌱 Currently learning System Design and scalable backend development
+- 💬 Ask me about MERN, SQL, Power BI, C++, or AI applications
 - 📫 Reach me at **Yash129912@gmail.com**
 
 ---
